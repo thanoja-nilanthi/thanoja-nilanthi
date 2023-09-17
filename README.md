@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m @thanoja-nilanthi
+- 👀 I’m interested in Java/JavaScript/HTML/Spring Boot/C#
+- 🌱 I’m currently learning Spring Boot
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+
 <!--
 **thanoja-nilanthi/thanoja-nilanthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
