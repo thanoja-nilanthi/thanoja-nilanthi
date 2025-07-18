@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m @thanoja-nilanthi
-- 👀 I’m interested in Java/JavaScript/HTML/Spring Boot/C#
+- 👀 I’m interested in Java/JavaScript/HTML/Spring Boot/Flutter
 - 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
